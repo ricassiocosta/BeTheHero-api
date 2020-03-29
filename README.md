@@ -1,7 +1,8 @@
 <div align="center">
   <img src="./img-readme/logo.svg" alt="Be The Hero"><br>
   <a href="https://github.com/ricassiocosta/BeTheHero-api/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/ricassiocosta/bethehero-api?color=E02041"></a>
-</div>
+</div><br>
+
 # Be The Hero - backend<br>
 Be The Hero is an application in which NGOs can register cases to collect donations.
 Created at Semana OmniStack 11.0 by <strong>Rocketseat</strong>
